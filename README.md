@@ -4,7 +4,7 @@
 
 Chrome extension that replaces occurrences of 'web3' with 'my butt' or a reasonable-sounding variant.
 
-[Direct download of crx file](https://github.com/tarngerine/web3-to-butt/blob/master/web3-to-butt.crx?raw=true)
+[Direct download of crx file](https://github.com/tarngerine/web3-to-butt/raw/main/web3-to-butt.crx)
 
 This is forked from the infamous [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) by @panicsteve.
 
