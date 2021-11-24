@@ -13,8 +13,8 @@
 		B11510AC274EA091009C4A65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11510AA274EA091009C4A65 /* Main.storyboard */; };
 		B11510B5274EA091009C4A65 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B11510B4274EA091009C4A65 /* AppDelegate.swift */; };
 		B11510B8274EA091009C4A65 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B11510B6274EA091009C4A65 /* Main.storyboard */; };
-		B11510C0274EA091009C4A65 /* web3 to butt Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B11510BF274EA091009C4A65 /* web3 to butt Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		B11510CA274EA092009C4A65 /* web3 to butt Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B11510C9274EA092009C4A65 /* web3 to butt Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B11510C0274EA091009C4A65 /* web3-to-butt Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B11510BF274EA091009C4A65 /* web3-to-butt Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		B11510CA274EA092009C4A65 /* web3-to-butt Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = B11510C9274EA092009C4A65 /* web3-to-butt Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		B11510D0274EA092009C4A65 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = B1151093274EA08E009C4A65 /* Main.html */; };
 		B11510D1274EA092009C4A65 /* Main.html in Resources */ = {isa = PBXBuildFile; fileRef = B1151093274EA08E009C4A65 /* Main.html */; };
 		B11510D2274EA092009C4A65 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B1151095274EA08E009C4A65 /* Icon.png */; };
@@ -65,7 +65,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				B11510C0274EA091009C4A65 /* web3 to butt Extension.appex in Embed App Extensions */,
+				B11510C0274EA091009C4A65 /* web3-to-butt Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -76,7 +76,7 @@
 			dstPath = "";
 			dstSubfolderSpec = 13;
 			files = (
-				B11510CA274EA092009C4A65 /* web3 to butt Extension.appex in Embed App Extensions */,
+				B11510CA274EA092009C4A65 /* web3-to-butt Extension.appex in Embed App Extensions */,
 			);
 			name = "Embed App Extensions";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -91,20 +91,20 @@
 		B1151098274EA08E009C4A65 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		B1151099274EA091009C4A65 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B115109B274EA091009C4A65 /* SafariWebExtensionHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariWebExtensionHandler.swift; sourceTree = "<group>"; };
-		B11510A0274EA091009C4A65 /* web3 to butt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "web3 to butt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B11510A0274EA091009C4A65 /* web3-to-butt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "web3-to-butt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11510A3274EA091009C4A65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B11510A5274EA091009C4A65 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		B11510A8274EA091009C4A65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B11510AB274EA091009C4A65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B11510AD274EA091009C4A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B11510B2274EA091009C4A65 /* web3 to butt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "web3 to butt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B11510B2274EA091009C4A65 /* web3-to-butt.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "web3-to-butt.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11510B4274EA091009C4A65 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B11510B7274EA091009C4A65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B11510B9274EA091009C4A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B11510BA274EA091009C4A65 /* web3 to butt.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "web3 to butt.entitlements"; sourceTree = "<group>"; };
-		B11510BF274EA091009C4A65 /* web3 to butt Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "web3 to butt Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B11510BF274EA091009C4A65 /* web3-to-butt Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "web3-to-butt Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11510C4274EA091009C4A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		B11510C9274EA092009C4A65 /* web3 to butt Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "web3 to butt Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B11510C9274EA092009C4A65 /* web3-to-butt Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "web3-to-butt Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B11510CE274EA092009C4A65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B11510CF274EA092009C4A65 /* web3 to butt.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "web3 to butt.entitlements"; sourceTree = "<group>"; };
 		B11510EF274EA093009C4A65 /* icon16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon16.png; path = "../../web3-to-butt/icon16.png"; sourceTree = "<group>"; };
@@ -192,10 +192,10 @@
 		B11510A1274EA091009C4A65 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				B11510A0274EA091009C4A65 /* web3 to butt.app */,
-				B11510B2274EA091009C4A65 /* web3 to butt.app */,
-				B11510BF274EA091009C4A65 /* web3 to butt Extension.appex */,
-				B11510C9274EA092009C4A65 /* web3 to butt Extension.appex */,
+				B11510A0274EA091009C4A65 /* web3-to-butt.app */,
+				B11510B2274EA091009C4A65 /* web3-to-butt.app */,
+				B11510BF274EA091009C4A65 /* web3-to-butt Extension.appex */,
+				B11510C9274EA092009C4A65 /* web3-to-butt Extension.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -256,9 +256,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		B115109F274EA091009C4A65 /* web3 to butt (iOS) */ = {
+		B115109F274EA091009C4A65 /* web3-to-butt (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B11510E4274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt (iOS)" */;
+			buildConfigurationList = B11510E4274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt (iOS)" */;
 			buildPhases = (
 				B115109C274EA091009C4A65 /* Sources */,
 				B115109D274EA091009C4A65 /* Frameworks */,
@@ -270,14 +270,14 @@
 			dependencies = (
 				B11510C2274EA091009C4A65 /* PBXTargetDependency */,
 			);
-			name = "web3 to butt (iOS)";
+			name = "web3-to-butt (iOS)";
 			productName = "web3 to butt (iOS)";
-			productReference = B11510A0274EA091009C4A65 /* web3 to butt.app */;
+			productReference = B11510A0274EA091009C4A65 /* web3-to-butt.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B11510B1274EA091009C4A65 /* web3 to butt (macOS) */ = {
+		B11510B1274EA091009C4A65 /* web3-to-butt (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B11510EB274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt (macOS)" */;
+			buildConfigurationList = B11510EB274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt (macOS)" */;
 			buildPhases = (
 				B11510AE274EA091009C4A65 /* Sources */,
 				B11510AF274EA091009C4A65 /* Frameworks */,
@@ -289,14 +289,14 @@
 			dependencies = (
 				B11510CC274EA092009C4A65 /* PBXTargetDependency */,
 			);
-			name = "web3 to butt (macOS)";
+			name = "web3-to-butt (macOS)";
 			productName = "web3 to butt (macOS)";
-			productReference = B11510B2274EA091009C4A65 /* web3 to butt.app */;
+			productReference = B11510B2274EA091009C4A65 /* web3-to-butt.app */;
 			productType = "com.apple.product-type.application";
 		};
-		B11510BE274EA091009C4A65 /* web3 to butt Extension (iOS) */ = {
+		B11510BE274EA091009C4A65 /* web3-to-butt Extension (iOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B11510E0274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt Extension (iOS)" */;
+			buildConfigurationList = B11510E0274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt Extension (iOS)" */;
 			buildPhases = (
 				B11510BB274EA091009C4A65 /* Sources */,
 				B11510BC274EA091009C4A65 /* Frameworks */,
@@ -306,14 +306,14 @@
 			);
 			dependencies = (
 			);
-			name = "web3 to butt Extension (iOS)";
+			name = "web3-to-butt Extension (iOS)";
 			productName = "web3 to butt Extension (iOS)";
-			productReference = B11510BF274EA091009C4A65 /* web3 to butt Extension.appex */;
+			productReference = B11510BF274EA091009C4A65 /* web3-to-butt Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
-		B11510C8274EA092009C4A65 /* web3 to butt Extension (macOS) */ = {
+		B11510C8274EA092009C4A65 /* web3-to-butt Extension (macOS) */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B11510E7274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt Extension (macOS)" */;
+			buildConfigurationList = B11510E7274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt Extension (macOS)" */;
 			buildPhases = (
 				B11510C5274EA092009C4A65 /* Sources */,
 				B11510C6274EA092009C4A65 /* Frameworks */,
@@ -323,9 +323,9 @@
 			);
 			dependencies = (
 			);
-			name = "web3 to butt Extension (macOS)";
+			name = "web3-to-butt Extension (macOS)";
 			productName = "web3 to butt Extension (macOS)";
-			productReference = B11510C9274EA092009C4A65 /* web3 to butt Extension.appex */;
+			productReference = B11510C9274EA092009C4A65 /* web3-to-butt Extension.appex */;
 			productType = "com.apple.product-type.app-extension";
 		};
 /* End PBXNativeTarget section */
@@ -352,7 +352,7 @@
 					};
 				};
 			};
-			buildConfigurationList = B1151090274EA08E009C4A65 /* Build configuration list for PBXProject "web3 to butt" */;
+			buildConfigurationList = B1151090274EA08E009C4A65 /* Build configuration list for PBXProject "web3-to-butt" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -365,10 +365,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				B115109F274EA091009C4A65 /* web3 to butt (iOS) */,
-				B11510B1274EA091009C4A65 /* web3 to butt (macOS) */,
-				B11510BE274EA091009C4A65 /* web3 to butt Extension (iOS) */,
-				B11510C8274EA092009C4A65 /* web3 to butt Extension (macOS) */,
+				B115109F274EA091009C4A65 /* web3-to-butt (iOS) */,
+				B11510B1274EA091009C4A65 /* web3-to-butt (macOS) */,
+				B11510BE274EA091009C4A65 /* web3-to-butt Extension (iOS) */,
+				B11510C8274EA092009C4A65 /* web3-to-butt Extension (macOS) */,
 			);
 		};
 /* End PBXProject section */
@@ -468,12 +468,12 @@
 /* Begin PBXTargetDependency section */
 		B11510C2274EA091009C4A65 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B11510BE274EA091009C4A65 /* web3 to butt Extension (iOS) */;
+			target = B11510BE274EA091009C4A65 /* web3-to-butt Extension (iOS) */;
 			targetProxy = B11510C1274EA091009C4A65 /* PBXContainerItemProxy */;
 		};
 		B11510CC274EA092009C4A65 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = B11510C8274EA092009C4A65 /* web3 to butt Extension (macOS) */;
+			target = B11510C8274EA092009C4A65 /* web3-to-butt Extension (macOS) */;
 			targetProxy = B11510CB274EA092009C4A65 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -646,7 +646,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt.Extension";
-				PRODUCT_NAME = "web3 to butt Extension";
+				PRODUCT_NAME = "web3-to-butt Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -676,7 +676,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt.Extension";
-				PRODUCT_NAME = "web3 to butt Extension";
+				PRODUCT_NAME = "web3-to-butt Extension";
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -715,7 +715,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt";
-				PRODUCT_NAME = "web3 to butt";
+				PRODUCT_NAME = "web3-to-butt";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -752,7 +752,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt";
-				PRODUCT_NAME = "web3 to butt";
+				PRODUCT_NAME = "web3-to-butt";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -784,7 +784,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt.Extension";
-				PRODUCT_NAME = "web3 to butt Extension";
+				PRODUCT_NAME = "web3-to-butt Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -815,7 +815,7 @@
 					SafariServices,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt.Extension";
-				PRODUCT_NAME = "web3 to butt Extension";
+				PRODUCT_NAME = "web3-to-butt Extension";
 				SDKROOT = macosx;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -852,7 +852,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt";
-				PRODUCT_NAME = "web3 to butt";
+				PRODUCT_NAME = "web3-to-butt";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -888,7 +888,7 @@
 					WebKit,
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "com.toolshop.web3-to-butt";
-				PRODUCT_NAME = "web3 to butt";
+				PRODUCT_NAME = "web3-to-butt";
 				SDKROOT = macosx;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -898,7 +898,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B1151090274EA08E009C4A65 /* Build configuration list for PBXProject "web3 to butt" */ = {
+		B1151090274EA08E009C4A65 /* Build configuration list for PBXProject "web3-to-butt" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B11510DE274EA092009C4A65 /* Debug */,
@@ -907,7 +907,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B11510E0274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt Extension (iOS)" */ = {
+		B11510E0274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt Extension (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B11510E1274EA092009C4A65 /* Debug */,
@@ -916,7 +916,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B11510E4274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt (iOS)" */ = {
+		B11510E4274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt (iOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B11510E5274EA092009C4A65 /* Debug */,
@@ -925,7 +925,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B11510E7274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt Extension (macOS)" */ = {
+		B11510E7274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt Extension (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B11510E8274EA092009C4A65 /* Debug */,
@@ -934,7 +934,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		B11510EB274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3 to butt (macOS)" */ = {
+		B11510EB274EA092009C4A65 /* Build configuration list for PBXNativeTarget "web3-to-butt (macOS)" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B11510EC274EA092009C4A65 /* Debug */,
