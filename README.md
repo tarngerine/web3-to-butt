@@ -2,17 +2,21 @@
 
 ![Example replacements: "What can you do in My Butt?", "web2 monetizes attention, my butt monetizes passion"](sample.png)
 
-Chrome extension that replaces occurrences of 'web3' with 'my butt' or a reasonable-sounding variant.
+Chrome and Safari extensions that replaces occurrences of 'web3' with 'my butt' or a reasonable-sounding variant.
 
 This is forked from the infamous [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) by @panicsteve.
 
-## Installation
+## Chrome Version
+
+In review for Chrome store...
 
 While I get on working this approved for the Chrome store, the easiest way to use this is to clone this repo, and load it as an unpacked extension in developer mode in Chrome.
 
 ## Safari Version
 
-I do not want to use Xcode so feel free to make a Safari version.
+In review for TestFlight...
+
+In `web3-to-butt-safari` there is an XCode project — open this. This contains builds for both iOS and macOS. It references the source files in the Chrome extension under `web3-to-butt`.
 
 ## Firefox Version
 
