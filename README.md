@@ -10,7 +10,7 @@ This is forked from the infamous [cloud-to-butt](https://github.com/panicsteve/c
 
 In review for Chrome store...
 
-While I get on working this approved for the Chrome store, the easiest way to use this is to clone this repo, and load it as an unpacked extension in developer mode in Chrome.
+While I get on working this approved for the Chrome store, the easiest way to use this is to clone this repo, and load `web3-to-butt` folder as an unpacked extension in developer mode in Chrome.
 
 ## Safari Version
 
