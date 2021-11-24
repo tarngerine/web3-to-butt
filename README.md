@@ -1,38 +1,21 @@
-cloud-to-butt
-=============
+# web3-to-butt
 
-![](logo.png)
+![Example replacements: "What can you do in My Butt?", "web2 monetizes attention, my butt monetizes passion"](sample.png)
 
-Chrome extension that replaces occurrences of 'the cloud' with 'my butt'
+Chrome extension that replaces occurrences of 'web3' with 'my butt' or a reasonable-sounding variant.
 
-[Direct download of crx file](https://github.com/panicsteve/cloud-to-butt/blob/master/CloudToButt.crx?raw=true)
+[Direct download of crx file](https://github.com/tarngerine/web3-to-butt/blob/master/web3-to-butt.crx?raw=true)
 
-Note that there are forks of this extension that simply replace 'cloud' with 'butt'.
-In my personal opinion, that approach is too broad and it's less funny as a result, but it is clearly a very
-polarizing issue in the cloud-to-butt user community.  Forks are free to do whatever they like.  But officially, _this_ extension replaces only the phrase described above, and therefore it did not replace your cloudflare URLs with buttflare URLs. Thank you for your concern.
+This is forked from the infamous [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) by @panicsteve.
 
-Screenshot Gallery
-------------------
+## Installation
 
-http://www.flickr.com/groups/cloud-to-butt/
+In Chrome, choose Window > Extensions. Drag `web3-to-butt.crx` into the page that appears.
 
-Installation
-------------
+## Safari Version
 
-In Chrome, choose Window > Extensions.  Drag CloudToButt.crx into the page that appears.
+I do not want to use Xcode so feel free to make a Safari version.
 
-Safari Version
---------------
+## Firefox Version
 
-Can be found here: https://github.com/logancollins/cloud-to-butt-safari
-
-Firefox Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-mozilla
-
-
-Opera Version
----------------
-
-Can be found here: https://github.com/DaveRandom/cloud-to-butt-opera
+I am lazy so feel free to make a Firefox version.

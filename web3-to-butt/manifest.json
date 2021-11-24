@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "web3 to butt",
+  "version": "1.0",
+  "description": "Replaces the text 'web3' with 'my butt'.",
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["content_script.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
