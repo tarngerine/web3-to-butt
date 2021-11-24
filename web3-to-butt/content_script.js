@@ -13,8 +13,13 @@ observer.observe(document.body, { subtree: true, childList: true });
 
 function walk(node) {
   // Function from here: http://is.gd/mwZp7E
+  // Don't replace user-editable content
   const tagName = node.tagName ? node.tagName.toLowerCase() : "";
-  if (tagName == "input" || tagName == "textarea") {
+  if (
+    tagName == "input" ||
+    tagName == "textarea" ||
+    isInsideContentEditable(node)
+  ) {
     return;
   }
 
@@ -53,4 +58,14 @@ function handleText(textNode) {
   v = v.replace(/\bweb 3\b/g, "my   butt");
 
   textNode.nodeValue = v;
+}
+
+function isInsideContentEditable(node) {
+  while (node.parentNode) {
+    if (node.contentEditable === "true") {
+      return true;
+    }
+    node = node.parentNode;
+  }
+  return false;
 }

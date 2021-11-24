@@ -1,5 +1,5 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 2,
   "name": "web3 to butt",
   "version": "1.0",
   "description": "Replaces the text 'web3' with 'my butt' (or some other reasonable-sounding variant).",
