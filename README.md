@@ -16,6 +16,8 @@ While I get on working this approved for the Chrome store, the easiest way to us
 
 In review for TestFlight...
 
+![Example of extension working in iOS](sample-ios.png)
+
 In `web3-to-butt-safari` there is an XCode project — open this. This contains builds for both iOS and macOS. It references the source files in the Chrome extension under `web3-to-butt`.
 
 ## Firefox Version
