@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "web3 to butt",
+  "name": "web3-to-butt",
   "version": "1.0",
   "description": "Replaces the text 'web3' with 'my butt' (or some other reasonable-sounding variant).",
   "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" },
