@@ -8,7 +8,7 @@ This is forked from the infamous [cloud-to-butt](https://github.com/panicsteve/c
 
 ## Installation
 
-[Download release v1.0 here]
+[Download release v1.0 here](https://github.com/tarngerine/web3-to-butt/releases/tag/v1.0)
 
 ## Contributing
 
