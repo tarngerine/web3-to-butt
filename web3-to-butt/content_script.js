@@ -55,7 +55,7 @@ function handleText(textNode) {
   v = v.replace(/\bWeb3\.0\b/g, "My Butt");
   v = v.replace(/\bweb3\b/g, "my butt");
   v = v.replace(/\bWeb3\b/g, "My Butt");
-  v = v.replace(/\bweb 3\b/g, "my   butt");
+  v = v.replace(/\bweb 3\b/g, "my butt");
 
   textNode.nodeValue = v;
 }
